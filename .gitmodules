@@ -22,3 +22,9 @@
 [submodule "Cab-Booking-Service"]
 	path = Cab-Booking-Service
 	url = git@github.com:vl4d09/Cab-Booking-Service.git
+[submodule "sharing-service"]
+	path = sharing-service
+	url = https://github.com/Pavlon28/sharing-service
+[submodule "found-raising-service"]
+	path = found-raising-service
+	url = https://github.com/Pavlon28/found-raising-service

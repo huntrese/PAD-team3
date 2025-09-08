@@ -4,3 +4,9 @@
 [submodule "consumables-service"]
 	path = consumables-service
 	url = https://github.com/huntrese/consumables-service.git
+[submodule "user-management-service"]
+	path = user-management-service
+	url = https://github.com/yaeby/user-management-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/yaeby/notification-service.git
